@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqPfYnvug2tsgIbm0NAz_LhOSMb_wf_5G8xzE5nMzliots80HtD6FbuGnTwZ0H8JIhXM&usqp=CAU)" width="150"/>
+</div>
 
 <!--
 **PriyanshuBBS/PriyanshuBBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
