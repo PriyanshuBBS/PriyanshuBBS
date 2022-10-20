@@ -17,7 +17,7 @@
 
 I am a Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :desktop_computer: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :desktop_computer: I’m pursuing Computer Science Engineering
 
 - :mag_right: Exploring Web Devlopment world.
 
