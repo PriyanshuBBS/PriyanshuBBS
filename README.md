@@ -15,10 +15,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am a Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Delhi, India.
 
 - :desktop_computer: I’m pursuing Computer Science Engineering
 
 - :mag_right: Exploring Web Devlopment world.
 
-- :left_speech_bubble:	How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+---
+
+### :hammer_and_wrench: Languages and Tools :
