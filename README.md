@@ -2,6 +2,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqPfYnvug2tsgIbm0NAz_LhOSMb_wf_5G8xzE5nMzliots80HtD6FbuGnTwZ0H8JIhXM&usqp=CAU)" width="150"/>
 </div>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 <!--
 **PriyanshuBBS/PriyanshuBBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
