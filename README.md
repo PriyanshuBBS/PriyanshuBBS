@@ -38,3 +38,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Python" alt="C" width="50" height="50"/>&nbsp;
   
 </div>
+
+---
+
+### Stats
+![PriyanshuBBS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuBBS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
