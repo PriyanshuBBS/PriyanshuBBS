@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqPfYnvug2tsgIbm0NAz_LhOSMb_wf_5G8xzE5nMzliots80HtD6FbuGnTwZ0H8JIhXM&usqp=CAU)" width="150"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/priyanshubbs/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ <h3>Where to find me</h3>
+<p><a href="https://github.com/PriyanshuBBS" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/PriyanshuBBS" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/priyanshubbs/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=PriyanshuBBS&style=flat-square&color=blue" alt=""/>
